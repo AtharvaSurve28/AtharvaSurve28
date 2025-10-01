@@ -34,7 +34,6 @@ Passionate about solving real-life problems using programming and technology.
 - Building **Divyang Setu** – a platform for PWD & donors.
 - Exploring **AI integration** in web apps.
 - Practicing **Java + Node.js** full-stack development.
-- Improving **problem solving** in Python, C, and C++.
 
 # 💡 Some Dev Quote
 > "Code is like humor. When you have to explain it, it’s bad."
