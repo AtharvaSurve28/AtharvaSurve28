@@ -28,16 +28,13 @@ Passionate about solving real-life problems using programming and technology.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaSurve28&theme=github_dark)
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AtharvaSurve28&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AtharvaSurve28&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
 
 # 🚀 Current Focus
 - Building **Divyang Setu** – a platform for PWD & donors.
 - Exploring **AI integration** in web apps.
 - Practicing **Java + Node.js** full-stack development.
 - Improving **problem solving** in Python, C, and C++.
-
-# 🐍 Contribution Snake
-![snake gif](https://github.com/AtharvaSurve28/AtharvaSurve28/blob/output/github-contribution-grid-snake.svg)
 
 # 💡 Some Dev Quote
 > "Code is like humor. When you have to explain it, it’s bad."
