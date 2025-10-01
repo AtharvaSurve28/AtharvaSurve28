@@ -36,7 +36,10 @@ Passionate about solving real-life problems using programming and technology.
 - Practicing **Java + Node.js** full-stack development.
 - Improving **problem solving** in Python, C, and C++.
 
-# 💡 Quote of the Day
+# 🐍 Contribution Snake
+![snake gif](https://github.com/AtharvaSurve28/AtharvaSurve28/blob/output/github-contribution-grid-snake.svg)
+
+# 💡 Some Dev Quote
 > "Code is like humor. When you have to explain it, it’s bad."
 
 ---
