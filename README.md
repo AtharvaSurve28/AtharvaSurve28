@@ -3,7 +3,7 @@ Passionate about solving real-life problems using programming and technology.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atharva___2803) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-surve) 
+[![LinkedIn]https://www.linkedin.com/in/atharva-surve-a3557b319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharvasurve1919@gmail.com) 
 
 # 💻 Tech Stack:
